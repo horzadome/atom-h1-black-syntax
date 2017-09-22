@@ -2,7 +2,7 @@
 
 A dark UI theme that adapts to most syntax themes.
 
-![H1 Black Syntax](https://horzadome.github.io/atom-h1-black-syntax/h1-black-syntax-screenshot.png)
+![H1 Black Syntax](https://horzadome.github.io/atom-h1-black-syntax/h1-black-syntax-screenshot.png){:class="img-responsive"}
 
 > The font used in the screenshot is [Fira Mono](https://github.com/mozilla/Fira).
 
