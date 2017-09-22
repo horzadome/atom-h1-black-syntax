@@ -1,69 +1,16 @@
 {
-  "_args": [
-    [
-      {
-        "raw": "/tmp/d-117820-19227-xi7sss.zitu3m1jor/package.tgz",
-        "scope": null,
-        "escapedName": null,
-        "name": null,
-        "rawSpec": "/tmp/d-117820-19227-xi7sss.zitu3m1jor/package.tgz",
-        "spec": "/tmp/d-117820-19227-xi7sss.zitu3m1jor/package.tgz",
-        "type": "local"
-      },
-      "/tmp/apm-install-dir-117820-19227-12z9wd0.u4rifi529"
-    ]
-  ],
-  "_from": "../d-117820-19227-xi7sss.zitu3m1jor/package.tgz",
-  "_id": "h1-black-syntax@1.0.0",
-  "_inCache": true,
-  "_location": "/h1-black-syntax",
-  "_phantomChildren": {},
-  "_requested": {
-    "raw": "/tmp/d-117820-19227-xi7sss.zitu3m1jor/package.tgz",
-    "scope": null,
-    "escapedName": null,
-    "name": null,
-    "rawSpec": "/tmp/d-117820-19227-xi7sss.zitu3m1jor/package.tgz",
-    "spec": "/tmp/d-117820-19227-xi7sss.zitu3m1jor/package.tgz",
-    "type": "local"
-  },
-  "_requiredBy": [
-    "#USER"
-  ],
-  "_resolved": "file:../d-117820-19227-xi7sss.zitu3m1jor/package.tgz",
-  "_shasum": "de83b36e7eac7702cbce64d13656389a5547b50f",
-  "_shrinkwrap": null,
-  "_spec": "/tmp/d-117820-19227-xi7sss.zitu3m1jor/package.tgz",
-  "_where": "/tmp/apm-install-dir-117820-19227-12z9wd0.u4rifi529",
-  "bugs": {
-    "url": "https://github.com/mattgraham/glacier-syntax-atom/issues"
-  },
-  "dependencies": {},
-  "description": "Glacier Syntax for Atom.io is a theme inspired by @joeyfigaro's Glacier for Sublime.",
-  "devDependencies": {},
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  },
-  "homepage": "https://github.com/mattgraham/glacier-syntax-atom#readme",
-  "license": "MIT",
   "name": "h1-black-syntax",
-  "optionalDependencies": {},
-  "readme": "# Glacier UI for Atom\n\nGlacier Syntax **work in progress theme** for Atom.io is a theme inspired by @joeyfigaro's Glacier for Sublime\n\n![Image](http://f.cl.ly/items/1s2U3f3E1z240j1K133a/Image%202014-04-03%20at%201.15.25%20PM.png)\n\n## Install\n\nOpen Atom Preferences, select Themes > Search for `Glacier-Syntax-Theme`,\nthen Install.\n\n*You may need to reload Atom `Cmd+R` in between these steps.*\n\nActivate the theme by selecting the Themes section of Preferences.\n\n\n## Contributing\n\nIf you find what you would consider a bug:\n\n- Check out the issues on GitHub to see if anyone else has reported the same issue.\n- If you don't see anything, create an issue with information on how to reproduce it.\n\nIf you want to contribute an enhancement or a fix:\n\n- Fork the project on GitHub.\n- Make your changes.\n- Commit the changes without making changes to any other files that aren't related to your enhancement or fix.\n- Send a pull request. \n\nFor anything else find me on twitter via [@michigangraham](http://twitter.com/michigangraham)\n",
-  "readmeFilename": "README.md",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mattgraham/glacier-syntax-atom.git"
-  },
   "theme": "syntax",
   "version": "0.0.0",
-  "_atomModuleCache": {
-    "version": 1,
-    "dependencies": [],
-    "extensions": {
-      ".json": [
-        "package.json"
-      ]
-    },
-    "folders": []
+  "description": "Black theme with greenish syntax highlighting",
+  "keywords": [
+    "dark",
+    "blue",
+    "syntax"
+  ],
+  "repository": "https://github.com/horzadome/atom-h1-black-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
   }
 }
