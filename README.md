@@ -1,6 +1,8 @@
-## One Dark Syntax theme
+## H1 Black Syntax theme for Atom editor
 
-![h1-black-syntax](https://cloud.githubusercontent.com/assets/378023/7783203/49271ef6-0174-11e5-8eb1-d80b8d34a0e3.png)
+A dark UI theme that adapts to most syntax themes.
+
+![H1 Black Syntax](https://horzadome.github.io/atom-h1-black-syntax/h1-black-syntax-screenshot.png)
 
 > The font used in the screenshot is [Fira Mono](https://github.com/mozilla/Fira).
 
