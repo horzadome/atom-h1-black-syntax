@@ -1,0 +1,19 @@
+{
+  "name": "h1-black-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "Black background and colorful highlighting for Atom editor",
+  "keywords": [
+    "syntax",
+    "theme",
+    "h1",
+    "horza",
+    "horzadome",
+    "black"
+  ],
+  "repository": "https://github.com/horzadome/atom-h1-black-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
